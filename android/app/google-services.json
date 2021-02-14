@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997224493886",
+    "project_id": "ashkana-7e006",
+    "storage_bucket": "ashkana-7e006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997224493886:android:9a83663748ae582810326f",
+        "android_client_info": {
+          "package_name": "com.example.ashkana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997224493886-u5enhl5umf7otihrvqsrepi041ln97b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvjcRTUYrJHEx3Vj-krP37u1yHrwC01E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997224493886-u5enhl5umf7otihrvqsrepi041ln97b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
